@@ -1,0 +1,14 @@
+---
+app:
+  mouse: false
+
+pip:
+  index-url: https://pypi.org/
+  search-url: https://pypi.org/search/
+  list-page-size: 20  # `pip list` show per page size
+  timeout: 3000  # unit: microsecond
+
+log:
+  prefix: '[lazypip] '
+  directory: logs
+  level: info  # support level: debug, info, error
