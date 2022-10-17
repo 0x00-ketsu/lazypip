@@ -35,7 +35,7 @@ Input `lazypip` in terminal then `Enter`
 
 ## Keyboard shortcuts
 
-Press `x` in different view
+Press `x` in (different view) show help info
 
 ## License
 
